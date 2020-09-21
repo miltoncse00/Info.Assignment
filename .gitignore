@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/InfoTrack.Assignment/.vs/InfoTrack.Assignment
+/InfoTrack.Assignment/InfoTrack.Assessment.UnitTests/bin/Debug/netcoreapp3.1
+/InfoTrack.Assignment/InfoTrack.Assessment.UnitTests/obj
+/InfoTrack.Assignment/InfoTrack.Assigment.Application/bin/Debug/netcoreapp3.1
+/InfoTrack.Assignment/InfoTrack.Assigment.Application/obj
+/InfoTrack.Assignment/InfoTrack.Assigment.Domain/bin/Debug/netcoreapp3.1
+/InfoTrack.Assignment/InfoTrack.Assigment.Domain/obj
+/InfoTrack.Assignment/InfoTrack.Assignment.Api/bin/Debug/netcoreapp3.1
+/InfoTrack.Assignment/InfoTrack.Assignment.Api/obj
